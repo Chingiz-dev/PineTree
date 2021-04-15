@@ -1,0 +1,13 @@
+D:\csharp\april\14\PineTree\bin\Debug\netcoreapp3.1\PineTree.exe
+D:\csharp\april\14\PineTree\bin\Debug\netcoreapp3.1\PineTree.deps.json
+D:\csharp\april\14\PineTree\bin\Debug\netcoreapp3.1\PineTree.runtimeconfig.json
+D:\csharp\april\14\PineTree\bin\Debug\netcoreapp3.1\PineTree.runtimeconfig.dev.json
+D:\csharp\april\14\PineTree\bin\Debug\netcoreapp3.1\PineTree.dll
+D:\csharp\april\14\PineTree\bin\Debug\netcoreapp3.1\PineTree.pdb
+D:\csharp\april\14\PineTree\obj\Debug\netcoreapp3.1\PineTree.csprojAssemblyReference.cache
+D:\csharp\april\14\PineTree\obj\Debug\netcoreapp3.1\PineTree.AssemblyInfoInputs.cache
+D:\csharp\april\14\PineTree\obj\Debug\netcoreapp3.1\PineTree.AssemblyInfo.cs
+D:\csharp\april\14\PineTree\obj\Debug\netcoreapp3.1\PineTree.csproj.CoreCompileInputs.cache
+D:\csharp\april\14\PineTree\obj\Debug\netcoreapp3.1\PineTree.dll
+D:\csharp\april\14\PineTree\obj\Debug\netcoreapp3.1\PineTree.pdb
+D:\csharp\april\14\PineTree\obj\Debug\netcoreapp3.1\PineTree.genruntimeconfig.cache
